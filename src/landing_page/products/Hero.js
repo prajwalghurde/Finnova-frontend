@@ -15,6 +15,12 @@ function Hero() {
             <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
           </a>
         </p>
+              <button
+          className="p-2 btn btn-dark fs-5 mb-5"
+          style={{ width: "20%", margin: "0 auto" }}
+        >
+          <a href="https://finnova-dashboard.onrender.com/" style={{textDecoration:"none"}}>Try Flyte Now</a>
+        </button>
       </div>
     </div>
   );
